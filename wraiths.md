@@ -9,8 +9,8 @@ The Wraiths specialize in the theft of luxury items and intelligence gathering f
 # Quirks
 Members wear masks and conceal their true identities with aliases. They communicate with a private sign language.
 # Allies
-[Cabbies](cabbies)
+* [Cabbies](cabbies)
 # Enemies
-[Bluecoats](bluecoats)
-[Inspectors](inspectors)
-[The Hive](hive)
+* [Bluecoats](bluecoats)
+* [Inspectors](inspectors)
+* [The Hive](hive)
