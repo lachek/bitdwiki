@@ -1,6 +1,8 @@
 <!-- TITLE: The Wraiths -->
 <!-- SUBTITLE: A mysterious crew of masked thieves and spies -->
 
+# Relationship to PCs
+Competition but possibly allies against shared enemies in the establishment of new hunting grounds in Charterhall.
 # Turf
 The Wraiths specialize in the theft of luxury items and intelligence gathering for clients to use as blackmail. They used to make their primary hunting grounds in [Silkshore](silkshore) and [Nightmarket](nightmarket), but the [Bluecoats](bluecoats) have made an uncharacteristic show of focused force over the past month and driven them out of both districts.
 # People
@@ -9,8 +11,8 @@ The Wraiths specialize in the theft of luxury items and intelligence gathering f
 # Quirks
 Members wear masks and conceal their true identities with aliases. They communicate with a private sign language.
 # Allies
-* [Cabbies](cabbies)
+[Cabbies](cabbies)
 # Enemies
-* [Bluecoats](bluecoats)
-* [Inspectors](inspectors)
-* [The Hive](hive)
+[Bluecoats](bluecoats)
+[Inspectors](inspectors)
+[The Hive](hive)
