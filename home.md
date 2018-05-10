@@ -12,6 +12,7 @@ Faction Name|Current Status|Tier|Hold
 [Cabbies](cabbies)|+2|II|W
 [The Church of Ecstacy](churchofecstacy)|-2|IV|S
 [The Reconciled](reconciled)|+1|III|S
+[The Bluecoats](bluecoats)|0|III|S
 
 # People
 [Fitz, a collector](fitz)
