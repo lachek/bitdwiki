@@ -13,7 +13,7 @@ Faction Name|Current Status|Tier|Hold
 [The Church of Ecstacy](churchofecstacy)|-2|IV|S
 [The Reconciled](reconciled)|+1|III|S
 
-# [People]
+# People
 [Fitz, a collector](fitz)
 # [Places]
 ## Charterhall
@@ -22,6 +22,6 @@ Charterhall is the Shadows' hunting grounds.
 ## Six Towers
 Six Towers is the location of the Shadows' HQ.
 [Prichard's Books](prichards)
-# [Events]
-# [Objects]
-# [Heists]
+# Events
+# Objects
+# Heists
