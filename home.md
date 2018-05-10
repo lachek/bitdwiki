@@ -8,9 +8,9 @@
 # [People]
 * [Fitz, a collector](fitz)
 # [Places]
-## [Charterhall](charterhall)
+## Charterhall
 
-## [Six Towers](sixtowers)
+## Six Towers
 * [Prichard's Books](prichards)
 # [Events]
 # [Objects]
