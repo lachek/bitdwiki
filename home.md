@@ -4,8 +4,9 @@
 # Crews
 * [Shadows](shadows)
 # Factions
+
 Faction Name|Current Standing
---------------------
+-----------------------------------
 [The Billhooks](billhooks)|-2
 [The Wraiths](wraiths)|0
 [Cabbies](cabbies)|+2
