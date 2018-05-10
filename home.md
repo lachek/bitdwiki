@@ -15,7 +15,7 @@ Faction Name|Current Status|Tier|Hold
 
 # People
 [Fitz, a collector](fitz)
-# [Places]
+# Places
 ## Charterhall
 Charterhall is the Shadows' hunting grounds. 
 
