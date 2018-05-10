@@ -3,7 +3,7 @@
 
 # Crews
 * [Shadows](shadows)
-# [Factions]
+# Factions
 Faction Name|Current Standing
 --------------------
 [The Billhooks](billhooks)|-2
