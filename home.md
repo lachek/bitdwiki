@@ -2,7 +2,7 @@
 <!-- SUBTITLE: being a repository for developing and tracking the factions, people, places, events, and heists in the city of Doskvol -->
 
 # Crews
-[Shadows]
+[Shadows](shadows)
 # [Factions]
 # [People]
 # [Places]
