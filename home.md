@@ -2,7 +2,7 @@
 <!-- SUBTITLE: being a repository for developing and tracking the factions, people, places, events, and heists in the city of Doskvol -->
 
 # Crews
-* [Shadows](shadows)
+[Shadows](shadows)
 # Factions
 
 Faction Name|Current Status|Tier|Hold
@@ -14,13 +14,14 @@ Faction Name|Current Status|Tier|Hold
 [The Reconciled](reconciled)|+1|III|S
 
 # [People]
-* [Fitz, a collector](fitz)
+[Fitz, a collector](fitz)
 # [Places]
 ## Charterhall
 Charterhall is the Shadows' hunting grounds. 
 
 ## Six Towers
-* [Prichard's Books](prichards)
+Six Towers is the location of the Shadows' HQ.
+[Prichard's Books](prichards)
 # [Events]
 # [Objects]
 # [Heists]
