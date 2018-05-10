@@ -5,13 +5,13 @@
 * [Shadows](shadows)
 # Factions
 
-Faction Name|Current Standing
----------------|--------------------
-[The Billhooks](billhooks)|-2
-[The Wraiths](wraiths)|0
-[Cabbies](cabbies)|+2
-[The Church of Ecstacy](churchofecstacy)|-2
-[The Reconciled](reconciled)|+1
+Faction Name|Current Status|Tier|Hold
+---------------|----------------|----|------
+[The Billhooks](billhooks)|-2|II|W
+[The Wraiths](wraiths)|0|II|W
+[Cabbies](cabbies)|+2|II|W
+[The Church of Ecstacy](churchofecstacy)|-2|IV|S
+[The Reconciled](reconciled)|+1|III|S
 
 # [People]
 * [Fitz, a collector](fitz)
