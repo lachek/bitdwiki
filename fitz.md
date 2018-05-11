@@ -1,5 +1,5 @@
 <!-- TITLE: Fitz Strathorn -->
-<!-- SUBTITLE: A nobleman with esoteric interests -->
+<!-- SUBTITLE: a nobleman with esoteric interests -->
 
 Fitz is a noble gentleman of advanced age. He does not have much permanent wealth to sustain his preferred lifestyle, but somehow still manages to get by on credit extended to him until his next windfall. His business consist of collecting curios, and any wealth he has is typically tied up on those. He does not ever part with one of his collectibles without making a hefty profit.
 
