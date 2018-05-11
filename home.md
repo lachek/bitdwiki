@@ -25,4 +25,6 @@ Six Towers is the location of the Shadows' HQ.
 [Prichard's Books](prichards)
 # Events
 # Objects
-# Heists
+# Scores
+
+
