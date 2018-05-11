@@ -26,5 +26,6 @@ Six Towers is the location of the Shadows' HQ.
 # Events
 # Objects
 # Scores
+[A treasured map](scores/treasuredmap)
 
 
