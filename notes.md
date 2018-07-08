@@ -15,7 +15,7 @@ An Inspector recently arrived in Duskwall in pursuit of clues about Veleris' whe
 
 Roslyn Kellis is worried for Ruby - she suspects that she's had something to do with Veleris' disappearance, given that Roslyn gave her the name and she disappeared shortly thereafter. The Inspector has already questioned her, but she's said nothing other than admit that she met with Ruby a few days prior to Veleris' disappearance. 
 
-The Cabbies want compensation for their lost carriage and dead driver, minimum 3 coin (1 for carriage, 1 for horse, 1 to the driver's surviving son.)
+The Cabbies (through their spokesperson Tall Benny) want compensation for their lost carriage and dead driver, minimum 3 coin (1 for carriage, 1 for horse, 1 to the driver's surviving son.)
 
 --
 
