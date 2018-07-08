@@ -11,14 +11,16 @@ Ruby and Ella has to make it out of there the only way it's possible - via train
 
 --
 
-
-
-It would have taken her about a month to return to Duskwall. How did she make it down there? How did she make it back?
-
-
-The Cabbies want compensation for their lost carriage and dead driver, minimum 3 coin (1 for carriage, 1 for horse, 1 to the driver's surviving son.)
-
 An Inspector recently arrived in Duskwall in pursuit of clues about Veleris' whereabouts. The Bluecoats strongly suspect the Binders are associated with her disappearance. They do not mention the missing map book.
 
 Roslyn Kellis is worried for Ruby - she suspects that she's had something to do with Veleris' disappearance, given that Roslyn gave her the name and she disappeared shortly thereafter. The Inspector has already questioned her, but she's said nothing other than admit that she met with Ruby a few days prior to Veleris' disappearance. 
+
+The Cabbies want compensation for their lost carriage and dead driver, minimum 3 coin (1 for carriage, 1 for horse, 1 to the driver's surviving son.)
+
+--
+
+The Inspector:
+Rudrice Peremoth, Akorosian originally from Cloudspire, plump 50-something with angry red hair and small round spectacles. Dresses conservatively. Highly competent. Has a strong interest in ships. Secret alcoholic.
+His bodyguard Pemryck, a gruff and harsh 30-something armed with a warhammer (that he's also adept at suddenly throwing) and a powerful flintlock pistol (harm 3).
+
 
