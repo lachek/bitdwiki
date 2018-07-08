@@ -8,11 +8,14 @@
 Faction Name|Current Status|Tier|Hold
 ---------------|----------------|----|------
 [The Billhooks](billhooks)|-2|II|W
-[The Wraiths](wraiths)|0|II|W
-[Cabbies](cabbies)|+2|II|W
+[The Wraiths](wraiths)|+1|II|W
+[The Graycloaks](graycloaks)|0|II|S
+[Cabbies](cabbies)|+1|II|W
 [The Church of Ecstacy](churchofecstacy)|-2|IV|S
 [The Reconciled](reconciled)|+1|III|S
-[The Bluecoats](bluecoats)|0|III|S
+[The Bluecoats](bluecoats)|-1|III|S
+[Iruvian Consulate](iruvianconsulate)|-1|III|S
+[Red Sashes](redsashes)|+1|II|W
 
 # People
 [Fitz, a collector](fitz)
