@@ -23,4 +23,14 @@ The Inspector:
 Rudrice Peremoth, Akorosian originally from Cloudspire, plump 50-something with angry red hair and small round spectacles. Dresses conservatively. Highly competent. Has a strong interest in ships. Secret alcoholic.
 His bodyguard Pemryck, a gruff and harsh 30-something armed with a warhammer (that he's also adept at suddenly throwing) and a powerful flintlock pistol (harm 3).
 
+--
 
+Score ideas:
+
+Kill the inspector. This is entirely possible but will create a lot of commotion and attention (essentially, a lot of Heat).
+The Inspector is not an idiot and will be well protected. A ghost field charm saves him from a single shot *or* a ghostly attack. Pemryck ensures all his food and drink is tasted before he gets into it. The Bluecoats are ostensibly also sworn to protect any Imperial representatives from harm and 2 officers are supposedly assigned to Rudrice at all times, but the Bluecoats can easily be paid off to look the other way or even help out with a conspiracy.
+
+Frame someone else. This is a major operation.
+
+Just avoid capture until Veleris is discovered safe in Iruvia, and the heat dies down a bit - then avoid capture after her testimony comes out.
+Rudrice will be on their tail and will eventually track them down and arrest them unless they can evade him better. Their contacts may become compromised however.
